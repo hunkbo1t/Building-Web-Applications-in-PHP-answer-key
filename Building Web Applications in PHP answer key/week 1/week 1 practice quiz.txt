@@ -25,3 +25,51 @@ Which HTML tag typically generates a request to retrieve a document?
 7. Question 7
 What standards organization publishes many of the documents that describe the protocols we use on the Internet?
 ->IETF
+
+8. Question 8
+In Python, what is the difference between an open file and a socket?
+->A socket can be simultaneously read and written
+
+9. Question 9
+What must happen before a client can open a socket?
+->A server must be running that is listening for socket connections
+
+10. Question 10
+What port is used for Simple Mail Transfer Protocol(SMTP)?
+->25
+
+11. Question 11
+What port is used by default for Secure HTTP(https)?
+->443
+
+12. Question 12
+What is the topic of the Internet Engineering Task Force document rfc2616?
+->HTTP
+
+13. Question 13
+What is the topic of the Internet Engineering Task Force document rfc42?
+->Message Data Type
+
+14. Question 14
+Which of these Internet Engineering Task Force(IETF) documents describes the "Internet Controle Message Protocol"?
+->RFC792
+
+15. Question 15
+What is the purpose of encode() in the socket1.py code:
+->To convert the data to UTF-8 before sending
+
+16. Question 16
+What can't you see in th Browser Developer Mode for most browsers?
+->The code that runs in the server
+
+17. Question 17
+In the sample server.py code, which function call actually waits for incoming socket connection requests?
+->listen()
+
+18. Question 18
+In the sample server.py code, which function call  will fail if another application is already using a port?
+->
+
+19. Question 19
+Which Python library makes it very easy to make HTTP request from Python?
+->urllib
